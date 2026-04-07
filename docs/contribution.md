@@ -60,7 +60,7 @@ Then open a Pull Request on GitHub and describe your changes clearly.
 If you find a bug or have a suggestion, please [open an issue](https://github.com/adityadmanager-art/y-LangChain_Project/issues) on GitHub. Include as much detail as possible:
 
 - Steps to reproduce the issue
-- Expected vs. actual behaviour
+- Expected vs. actual behavior
 - Your environment (OS, Python version, etc.)
 
 ## Code of Conduct
